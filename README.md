@@ -1,5 +1,7 @@
 # Hi there, I'm Tracey Munyagia 👋
 
+Software Developer | NLP & Generative AI Enthusiast
+
 ## 🚀 About Me
 
 I'm an AI and software development enthusiast passionate about building intelligent applications that solve real-world problems. My interests span Artificial Intelligence, Machine Learning, Mobile Development, and Generative AI.
