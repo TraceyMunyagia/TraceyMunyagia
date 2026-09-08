@@ -53,8 +53,8 @@ I enjoy creating AI-powered tools that enhance productivity, learning, and every
 
 ## 🎯 Career Interests
 
-* Artificial Intelligence Engineering
-* Machine Learning Engineering
+* Artificial Intelligence 
+* Machine Learning 
 * AI Product Development
 * Mobile App Development
 
@@ -73,7 +73,3 @@ I'm always interested in collaborating on AI, Machine Learning, and software dev
 📧 Email: tmunyagia@gmail.com LinkedIn:https://www.linkedin.com/in/tracey-munyagia-879843293/
 
 ---
-
-### ⚡ Fun Fact
-
-I enjoy turning complex AI concepts into practical applications that people can use every day.
