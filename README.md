@@ -14,11 +14,14 @@ I enjoy creating AI-powered tools that enhance productivity, learning, and every
 
 ### Programming Languages
 
+* Php
+* Java
 * Python
 * Dart
 * JavaScript
 * SQL
 * React
+  
 
 ### AI & Machine Learning
 
@@ -33,6 +36,8 @@ I enjoy creating AI-powered tools that enhance productivity, learning, and every
 ### Frameworks & Tools
 
 * Flutter
+* Laravel
+* SpringBoot
 * LangChain
 * Pinecone
 * Streamlit
